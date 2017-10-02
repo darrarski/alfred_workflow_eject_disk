@@ -8,7 +8,7 @@ Works with Alfred v3.5 with Power Pack.
 
 ## Installation
 
-1. Download `Eject Disk.alfredworkflow` from [releases](releases)
+1. Download `Eject Disk.alfredworkflow` from [releases](https://github.com/darrarski/alfred_workflow_eject_disk/releases)
 2. Open the file in Alfred to import workflow
 
 ## Usage
