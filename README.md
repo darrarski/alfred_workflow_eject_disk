@@ -1,5 +1,7 @@
 # Eject Disk (Alfred Workflow)
 
+![Eject Disk (Alfred Workflow)](Misc/Eject_Disk_Alfred_Screenshot1.png)
+
 ## Info
 
 Eject Disk is a workflow for [Alfred](https://www.alfredapp.com) app that allows to eject disk from macOS. Unlike the build-in "eject" command it really ejects a disk, instead just unmounting it.
